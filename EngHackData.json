@@ -1,0 +1,186 @@
+{
+    "users": [
+        "ashleyc#3426",
+        "wen#8164",
+        "binal#3797",
+        "weewoo#6104"
+    ],
+    "ashleyc#3426": {
+        "id#": "730254934259400734",
+        "completed": 5,
+        "missed": 0,
+        "remind": "13:35",
+        "Plan": {
+            "monday": {
+                "completed": "yes",
+                "subplans": [
+                    "booity"
+                ]
+            },
+            "tuesday": {
+                "completed": "yes",
+                "subplans": [
+                    "booty"
+                ]
+            },
+            "wednesday": {
+                "completed": "yes",
+                "subplans": [
+                    "booty"
+                ]
+            },
+            "thursday": {
+                "completed": "yes",
+                "subplans": [
+                    "booty"
+                ]
+            },
+            "friday": {
+                "completed": "yes",
+                "subplans": [
+                    "booty"
+                ]
+            },
+            "saturday": {
+                "completed": "no",
+                "subplans": [
+                    "booty"
+                ]
+            },
+            "sunday": {
+                "completed": "no",
+                "subplans": [
+                    "booty"
+                ]
+            }
+        }
+    },
+    "wen#8164": {
+        "id#": "364850648224628746",
+        "completed": 3,
+        "missed": 0,
+        "remind": "",
+        "Plan": {
+            "monday": {
+                "completed": "yes",
+                "subplans": [
+                    "arms"
+                ]
+            },
+            "tuesday": {
+                "completed": "no",
+                "subplans": []
+            },
+            "wednesday": {
+                "completed": "no",
+                "subplans": []
+            },
+            "thursday": {
+                "completed": "yes",
+                "subplans": [
+                    "booty"
+                ]
+            },
+            "friday": {
+                "completed": "yes",
+                "subplans": [
+                    "legs"
+                ]
+            },
+            "saturday": {
+                "completed": "no",
+                "subplans": []
+            },
+            "sunday": {
+                "completed": "no",
+                "subplans": []
+            }
+        }
+    },
+    "binal#3797": {
+        "id#": "549621763034578964",
+        "completed": 1,
+        "missed": 0,
+        "remind": "",
+        "Plan": {
+            "monday": {
+                "completed": "no",
+                "subplans": []
+            },
+            "tuesday": {
+                "completed": "no",
+                "subplans": [
+                    "arms"
+                ]
+            },
+            "wednesday": {
+                "completed": "no",
+                "subplans": [
+                    "abs"
+                ]
+            },
+            "thursday": {
+                "completed": "no",
+                "subplans": []
+            },
+            "friday": {
+                "completed": "yes",
+                "subplans": [
+                    "legs"
+                ]
+            },
+            "saturday": {
+                "completed": "no",
+                "subplans": []
+            },
+            "sunday": {
+                "completed": "no",
+                "subplans": [
+                    "cardio"
+                ]
+            }
+        }
+    },
+    "weewoo#6104": {
+        "id#": "305170199475388436",
+        "completed": 1,
+        "missed": 0,
+        "remind": "",
+        "Plan": {
+            "monday": {
+                "completed": "no",
+                "subplans": []
+            },
+            "tuesday": {
+                "completed": "no",
+                "subplans": []
+            },
+            "wednesday": {
+                "completed": "no",
+                "subplans": []
+            },
+            "thursday": {
+                "completed": "no",
+                "subplans": [
+                    "arms"
+                ]
+            },
+            "friday": {
+                "completed": "no",
+                "subplans": []
+            },
+            "saturday": {
+                "completed": "yes",
+                "subplans": [
+                    "booty"
+                ]
+            },
+            "sunday": {
+                "completed": "no",
+                "subplans": [
+                    "chest"
+                ]
+            }
+        }
+    }
+}
