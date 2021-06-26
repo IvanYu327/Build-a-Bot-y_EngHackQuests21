@@ -16,7 +16,7 @@ sys.path.append(".")
 import EngHack.embeds as em
 
 #STUFF ===================================================================================
-TOKEN = 'ODQ5NzU5NTU3NDc5Njk0MzU2.YLf2Qg.xNlhIKrpxyE5n0_N2uFvkQiojLI'
+TOKEN = 123 #Add token here
 client = commands.Bot(command_prefix = '-')
 os.chdir(r'C:\Users\yuiva\Documents\Ivans Documents\Code\EngHack')
 file = "EngHackData.json"
